@@ -33,6 +33,9 @@ The notification popup has the link to the product that was sold recently. The v
 
 * Fully responsive recent order notification popup.
 
-For more information, visit [https://meetanshi.com/magento-2-recent-sales-notification.html](https://meetanshi.com/magento-2-recent-sales-notification.html)
+For more information, visit ***[https://meetanshi.com/magento-2-recent-sales-notification.html](https://meetanshi.com/magento-2-recent-sales-notification.html)***
+
+Need help with installation and configuration? Refer to the User Guide:
+***[https://meetanshi.com/docs/magento-2/recent-sales-notification/](https://meetanshi.com/docs/magento-2/recent-sales-notification/)***
 
 
